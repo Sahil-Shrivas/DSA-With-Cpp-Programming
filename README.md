@@ -16,18 +16,6 @@ The repository is organized into folders based on topics:
 - **Sorting Algorithms**: Examples of various sorting techniques.
 - **Object-Oriented Programming (OOP)**: Concepts like classes, objects, inheritance, and polymorphism.
 
-## 🚀 Getting Started
-
-To run the programs locally:
-
-1. **Clone the repository**:
-
-   ```bash
-   git clone https://github.com/Sahil-Shrivas/Cpp-Programming.git
-
-
----
-
 
 # 📘 DSA With C++ Programming
 
@@ -62,4 +50,5 @@ Inside this repository, you’ll see folders and files covering:
    ```bash
    git clone https://github.com/Sahil-Shrivas/DSA-With-Cpp-Programming.git
    cd DSA-With-Cpp-Programming
+
 
