@@ -24,3 +24,37 @@ To run the programs locally:
 
    ```bash
    git clone https://github.com/Sahil-Shrivas/Cpp-Programming.git
+
+# 📘 DSA With C++ Programming
+
+A comprehensive collection of **Data Structures & Algorithms (DSA)** implementations and problem solutions using **C++**.  
+This repository includes code samples, practice problems, optimised approaches, and detailed explanations to help both beginners and experienced developers strengthen their algorithmic skills.
+
+---
+
+## 🧭 What You’ll Find Here
+
+Inside this repository, you’ll see folders and files covering:
+
+- **Arrays & Strings**: basic operations, two-pointer techniques, sliding window  
+- **Linked Lists**: singly, doubly, circular, insertion/deletion operations  
+- **Stacks & Queues**: implementation using arrays or linked lists, and common problems  
+- **Trees & Binary Search Trees**: traversal, insertion, deletion, balancing  
+- **Graphs**: BFS, DFS, shortest path algorithms (Dijkstra’s, Bellman-Ford)  
+- **Heaps & Priority Queues**: max-heap, min-heap, heap sort  
+- **Dynamic Programming**: knapsack, LIS, subset sum, etc.  
+- **Greedy Algorithms**: interval scheduling, coin change, etc.  
+- **Recursion & Backtracking**: subset generation, permutations, N-Queens, etc.  
+- **Sorting & Searching**: Quick Sort, Merge Sort, Binary Search, etc.  
+- **Miscellaneous / Competitive Problems**: problems from coding platforms, optimised solutions  
+
+> Each implementation usually has a `.cpp` file with example input-output followed by comments explaining the logic.
+
+---
+
+## 🚀 How to Use / Run the Code
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/Sahil-Shrivas/DSA-With-Cpp-Programming.git
+   cd DSA-With-Cpp-Programming
